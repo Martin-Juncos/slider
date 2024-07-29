@@ -1,5 +1,5 @@
 # Slider Project
-
+https://martin-juncos.github.io/slider/
 ## Descripción
 
 Este proyecto consiste en un control deslizante (slider) que permite a los usuarios desplazarse a través de una serie de elementos, típicamente imágenes o contenido HTML. Es útil para mostrar una galería de imágenes, testimonios, ofertas, etc.
